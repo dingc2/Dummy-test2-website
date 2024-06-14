@@ -1,0 +1,62 @@
+/* Parts were modified by chatGPT to improve look */
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+}
+header h1 {
+    margin: 0;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+main {
+    padding: 2rem 0;
+}
+section {
+    margin-bottom: 2rem;
+}
+section h2{
+    border-bottom: 2px solid #343a40;
+    padding-bottom: 0.5rem;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+button {
+    margin-top: 1rem;
+}
+pre {
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+section h3{
+    text-align: center;
+}
+
